@@ -15,7 +15,7 @@
   "author": "Yann Stepienik",
   "license": "Apache-2.0",
   "dependencies": {
-    "args": "^3.0.2",
+    "args": "^3.0.5",
     "babel-cli": "^6.24.1",
     "babel-preset-es2015": "^6.24.1",
     "chalk": "^1.1.3",
